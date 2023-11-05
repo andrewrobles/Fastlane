@@ -1,7 +1,11 @@
+import { useEffect } from 'react'
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  useEffect(() => {
+    window.location.href="https://andrewrobles.github.io/Blocks/"
+  })
   return (
     <div className="App">
       <header className="App-header">
