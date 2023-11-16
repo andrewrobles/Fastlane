@@ -9,7 +9,7 @@ And he shall be like a tree planted by the rivers of water,<br>
 That bringeth forth his fruit in his season;<br>
 His leaf also shall not wither;<br>
 And whatsoever he doeth shall prosper.<br>
-The ungodly are not so;<br>
+The ungodly are not so:<br>
 But are like the chaff which the wind driveth away.<br>
 Therefore the ungodly shall not stand in the judgement,<br>
 Nor sinners in the congregation of the righteous.<br>
