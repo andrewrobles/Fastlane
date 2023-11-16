@@ -5,7 +5,6 @@ Nor standeth in the way of sinners,<br>
 Nor sitteth in the seat of the scornful.<br>
 But his delight is in the law of the Lord;<br>
 And in his law doth he meditate day and night.<br>
-And in his law doth he meditate day and night.<br>
 And he shall be like a tree planted by the rivers of water,<br>
 That bringeth forth his fruit in his season;<br>
 His leaf also shall not wither;<br>
