@@ -1,7 +1,6 @@
 import { createApp } from 'vue'
-import App from './App.vue'
-
 import { createRouter, createWebHashHistory } from 'vue-router'
+import App from './App.vue'
 import PsalmOne from './PsalmOne.vue'
 import PsalmTwo from './PsalmTwo.vue'
 import PsalmThree from './PsalmThree.vue'
