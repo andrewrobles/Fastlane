@@ -1,8 +1,17 @@
 <template>
-Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;<br>
-but his delight is in the law of the Lord, and on his law he meditates day and night.<br>
-He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.<br>
-The wicked are not so, but are like chaff that the wind drives away.<br>
-Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous;<br>
-for the Lord knows the way of the righteous, but the way of the wicked will perish.<br>
+Blessed is the man that walketh not in the counsel of the ungodly,<br>
+Nor standeth in the way of sinners,<br>
+Nor sitteth in the seat of the scornful<br>
+But his delight is in the law of the Lord;<br>
+And in his law doth he meditate day and night.<br>
+And he shall be like a tree planted by the rivers of water,<br>
+That bringeth forth his fruit in his season;<br>
+His leaf also shall not wither;<br>
+And whatsoever he doeth shall prosper<br>
+The ungodly are not so:<br>
+But are like the chaff which the wind driveth away.<br>
+Therefore the ungodly shall not stand in the judgement,<br>
+Nor sinners in the congregation of the righteous<br>
+For the Lord knoweth the way of the righteous:<br>
+But the way of the ungodly shall perish.<br>
 </template>
