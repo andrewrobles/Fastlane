@@ -1,14 +1,29 @@
 <template>
-Why do the nations rage and the peoples plot in vain?<br>
-The kings of the earth set themselves, and the rulers take counsel together, against the Lord and against his Anointed, saying,<br>
-“Let us burst their bonds apart and cast away their cords from us.”<br>
-He who sits in the heavens laughs; the Lord holds them in derision.<br>
-Then he will speak to them in his wrath, and terrify them in his fury, saying,<br>
-“As for me, I have set my King on Zion, my holy hill.”<br>
-I will tell of the decree: The Lord said to me, “You are my Son; today I have begotten you.<br>
-Ask of me, and I will make the nations your heritage, and the ends of the earth your possession.<br>
-You shall break them with a rod of iron and dash them in pieces like a potter’s vessel.”<br>
-Now therefore, O kings, be wise; be warned, O rulers of the earth.<br>
-Serve the Lord with fear, and rejoice with trembling.<br>
-Kiss the Son, lest he be angry, and you perish in the way, for his wrath is quickly kindled. Blessed are all who take refuge in him.<br>
+Why do the heathen rage,<br>
+And the people imagine a vain thing?<br>
+The kings of the earth set themselves,<br>
+And the rulers take counsel together,<br>
+Against the Lord, and against his anointed, saying,<br>
+Let us break their bands asunder,<br>
+And cast away their cords from us.<br>
+He that sitteth in the heavens shall laugh:<br>
+The Lord shall have them in dirision.<br>
+Then shall he speak unto them in his wrath,<br>
+And vex them in his sore displeasure.<br>
+Yet have I set my king<br>
+Upon my holy hill of Zion.<br>
+I will declare the decree:<br>
+The Lord hath said unto me, Thou art my Son;<br>
+This day have I begotten thee.<br>
+Ask of me, and I shall give thee the heathen for thine inheritance,<br>
+And the uttermost parts of the earth for thy possession.<br>
+Thou shalt break them with a rod of iron;<br>
+Thou shalt dash them in pieces like a potter's vessel.<br>
+Be wise now therefore, O ye kings:<br>
+Be instructed, ye judges of the earth.<br>
+Serve the Lord with fear,<br>
+And rejoice with trembling.<br>
+Kiss the Son, lest he be angry, and ye perish from the way,<br>
+When his wrath is kindled but a little.<br>
+Blessed are all they that put their trust in him.<br>
 </template>
