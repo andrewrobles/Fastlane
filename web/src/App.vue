@@ -1,4 +1,5 @@
 <template>
-<a href="1.vue">Psalm 1</a>
-<router-view></router-view>
+	<router-link to="/1">Psalm 1</router-link><br>
+	<router-link to="/2">Psalm 2</router-link><br>
+	<router-view></router-view>
 </template>

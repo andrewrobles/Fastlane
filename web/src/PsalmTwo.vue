@@ -1,3 +1,4 @@
+<template>
 Why do the nations rage and the peoples plot in vain?<br>
 The kings of the earth set themselves, and the rulers take counsel together, against the Lord and against his Anointed, saying,<br>
 “Let us burst their bonds apart and cast away their cords from us.”<br>
@@ -10,3 +11,4 @@ You shall break them with a rod of iron and dash them in pieces like a potter’
 Now therefore, O kings, be wise; be warned, O rulers of the earth.<br>
 Serve the Lord with fear, and rejoice with trembling.<br>
 Kiss the Son, lest he be angry, and you perish in the way, for his wrath is quickly kindled. Blessed are all who take refuge in him.<br>
+</template>
