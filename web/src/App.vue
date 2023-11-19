@@ -1,9 +1,15 @@
 <template>
-	<div>
-		<router-link to="/1" style="margin-right:10px;">Psalm 1</router-link>
-		<router-link to="/2" style="margin-right:10px;">Psalm 2</router-link>
-		<router-link to="/3" style="margin-right:10px;">Psalm 3</router-link>
-		<router-link to="/4" style="margin-right:10px;">Psalm 4</router-link>
-	</div>
-	<router-view></router-view>
+<router-link to="/1" class="link">Psalm 1</router-link>
+<router-link to="/2" class="link">Psalm 2</router-link>
+<router-link to="/3" class="link">Psalm 3</router-link>
+<router-link to="/4" class="link">Psalm 4</router-link>
+<router-link to="/5" class="link">Psalm 5</router-link>
+<br>
+<router-view></router-view>
 </template>
+
+<style>
+.link {
+	margin-right: 10px	
+}
+</style>
