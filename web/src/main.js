@@ -7,6 +7,7 @@ import PsalmThree from './PsalmThree.vue'
 import PsalmFour from './PsalmFour.vue'
 import PsalmFive from './PsalmFive.vue'
 import PsalmSix from './PsalmSix.vue'
+import PsalmSeven from './PsalmSeven.vue'
 
 const routes = [
 	{ path: '/1', component: PsalmOne, name: 'PsalmOne' },
@@ -15,6 +16,7 @@ const routes = [
 	{ path: '/4', component: PsalmFour, name: 'PsalmFour' },
 	{ path: '/5', component: PsalmFive, name: 'PsalmFive' },
 	{ path: '/6', component: PsalmSix, name: 'PsalmSix' },
+	{ path: '/7', component: PsalmSeven, name: 'PsalmSeven' }
 ]
 
 const router = createRouter({
