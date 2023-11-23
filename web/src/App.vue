@@ -6,6 +6,7 @@
 <router-link to="/5" class="link">Psalm 5</router-link><br>
 <router-link to="/6" class="link">Psalm 6</router-link>
 <router-link to="/7" class="link">Psalm 7</router-link>
+<router-link to="/8" class="link">Psalm 8</router-link>
 <br>
 <router-view></router-view>
 </template>
