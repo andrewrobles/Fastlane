@@ -14,7 +14,7 @@ And hast crowned him with glory and honour.<br>
 Thou madest him to have dominion over the works of thy hands;<br>
 Thou hast put all things under his feet:<br>
 All sheep and oxen,<br>
-Yea, and the beasts of the field,<br>
+Yea, and the beasts of the field;<br>
 The fowl of the air, and the fish of the sea,<br>
 And whatsoever passeth through the paths of the seas.<br>
 O LORD our Lord,<br>
