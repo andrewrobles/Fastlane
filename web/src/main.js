@@ -1,13 +1,13 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory } from 'vue-router'
 import App from './App.vue'
-import PsalmOne from './PsalmOne.vue'
-import PsalmTwo from './PsalmTwo.vue'
-import PsalmThree from './PsalmThree.vue'
-import PsalmFour from './PsalmFour.vue'
-import PsalmFive from './PsalmFive.vue'
-import PsalmSix from './PsalmSix.vue'
-import PsalmSeven from './PsalmSeven.vue'
+import PsalmOne from '../../PsalmOne.vue'
+import PsalmTwo from '../../PsalmTwo.vue'
+import PsalmThree from '../../PsalmThree.vue'
+import PsalmFour from '../../PsalmFour.vue'
+import PsalmFive from '../../PsalmFive.vue'
+import PsalmSix from '../../PsalmSix.vue'
+import PsalmSeven from '../../PsalmSeven.vue'
 
 const routes = [
 	{ path: '/1', component: PsalmOne, name: 'PsalmOne' },
