@@ -1,3 +1,9 @@
+<script setup>
+	import { useRouter } from 'vue-router'
+	import PsalmEight from '../../psalms/PsalmEight.vue'
+	const router = useRouter()
+</script>
+
 <template>
 <router-link to="/1" class="link">Psalm 1</router-link>
 <router-link to="/2" class="link">Psalm 2</router-link>
@@ -8,6 +14,7 @@
 <router-link to="/7" class="link">Psalm 7</router-link>
 <router-link to="/8" class="link">Psalm 8</router-link>
 <br>
+<div v-if="!router.currentRoute.value.name"><PsalmEight/></div>
 <router-view></router-view>
 </template>
 
