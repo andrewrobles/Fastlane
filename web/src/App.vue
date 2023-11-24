@@ -1,6 +1,6 @@
 <script setup>
 	import { useRouter } from 'vue-router'
-	import PsalmEight from '../../psalms/PsalmEight.vue'
+	import PsalmEight from '../../text/PsalmEight.vue'
 	const router = useRouter()
 </script>
 
