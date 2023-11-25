@@ -1,10 +1,12 @@
+const read = text => {
+	return	text.split(/\n/) 
+}
+
 /* 
-		const read = require('./read')
-		read('1.txt')
+		getText('1.txt')
 		'a\nb\n'
 */
-
-const read = filename => {
+const getText = filename => {
 	const fs = require('fs')
 	const render = () => fs.readFileSync(
 		filename,
