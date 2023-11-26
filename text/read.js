@@ -1,4 +1,8 @@
-const read = text => {
+const read = rawText => {
+	let text = rawText
+	if  (text[text.length - 1] === '\n') {
+		text = text.slice(0, -1)
+	}
 	return	text.split(/\n/) 
 }
 
