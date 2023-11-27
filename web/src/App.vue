@@ -8,6 +8,7 @@
 <router-link to="/7" class="link">Psalm 7</router-link>
 <router-link to="/8" class="link">Psalm 8</router-link>
 <router-link to="/9" class="link">Psalm 9</router-link>
+<router-link to="/10" class="link">Psalm 10</router-link>
 <br>
 <router-view></router-view>
 </template>
