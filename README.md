@@ -1,4 +1,4 @@
-# Psalms
+# Fastlane
 
 ```bash
 cd web
